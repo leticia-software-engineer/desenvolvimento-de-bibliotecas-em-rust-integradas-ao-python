@@ -190,3 +190,5 @@ Isso builda e envia o pacote direto para o [PyPI](https://pypi.org/), exigindo u
 - Repositório de exemplos oficiais do PyO3: [https://github.com/PyO3/pyo3/tree/main/examples](https://github.com/PyO3/pyo3/tree/main/examples)
 - Rust Book (para quem está começando com Rust): [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
 - Instalação do Rust via rustup: [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
+
+Nossa documentação completa: [Wiki](https://github.com/leticia-software-engineer/desenvolvimento-de-bibliotecas-em-rust-integradas-ao-python/wiki/Desenvolvimento-de-bibliotecas-em-rust-integradas-ao-python-%E2%80%90-Documenta%C3%A7%C3%A3o-e-pesquisa)
